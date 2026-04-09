@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Usage and Billing System for a Resource
 
 This project provides a robust REST API built in Spring Boot for managing billable resources and calculating dynamic usage costs. The system allows you to create resources, attach varying pricing services to them, start and stop usage sessions for users, and automatically generate accurate invoices based on the time elapsed.
@@ -108,5 +107,4 @@ Inspect finalized math mappings:
 curl -X GET http://localhost:8080/api/bills/1
 ```
 =======
-# UsageAndBillingSystemForResources-
->>>>>>> 89f27340c355edf3348423bbfcdddf8512ed7cdd
+
